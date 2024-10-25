@@ -1,11 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J6a3lhNHV6dG9qbHFneDJxMGViOGhlMG1mdHMzcm8ydzVxZ2g5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jakedusing/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+# Welcome to My GitHub Profile!
+
+Hello! I'm Jake, a passionate developer with experience in various programming languages and technologies.  My projects range from web applications to video games, and I love tackling new challenges and learning new skills.
+
+## Skills
+
+- **JavaScript**: Knowledgeable in building interactive web applications using JavaScript.
+- **React**: Experienced in developing dynamic user interfaces with React.
+- **Node.js**:  Skilled in developing robust server-side applications and APIs with Node.
 <!--
 **jakedusing/jakedusing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
