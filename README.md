@@ -11,6 +11,11 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
 - **C++**: Experienced in video game development using C++.
 - **SQL**: Knowledge of relational databases and adept at writing complex queries.
 - **MongoDB**: Experienced in working with NoSQL databases and managing data effectively in MondoDB.
+
+## Projects
+
+### [Breath of the Wild Compendium] (https://zeldabotwcompendium.netlify.app/)
+- **Description**: This project is a React application built with TypeScript that allows users to explore information about the video game The Legend of Zelda: Breath of the Wild.  The app fetches data from a public API to provide users with insights into various game elements including monsters, materials, and equipment.
 <!--
 **jakedusing/jakedusing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
