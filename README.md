@@ -7,6 +7,10 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
 - **JavaScript**: Knowledgeable in building interactive web applications using JavaScript.
 - **React**: Experienced in developing dynamic user interfaces with React.
 - **Node.js**:  Skilled in developing robust server-side applications and APIs with Node.
+- **C#**: Experienced in software development using C#, including video game development in Unity.
+- **C++**: Experienced in video game development using C++.
+- **SQL**: Knowledge of relational databases and adept at writing complex queries.
+- **MongoDB**: Experienced in working with NoSQL databases and managing data effectively in MondoDB.
 <!--
 **jakedusing/jakedusing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
