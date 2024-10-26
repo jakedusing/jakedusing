@@ -19,7 +19,7 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
 <img src="https://github.com/user-attachments/assets/a6e37111-6d47-4531-bf0b-0d6cb2725b08" alt="Breath of the Wild Compendium" width="800" />
   </div>
   <div>
-- **Description**: This project is a React application built with TypeScript that allows users to explore information about the video game The Legend of Zelda: Breath of the Wild.  The app fetches data from a public API to provide users with insights into various game elements including monsters, materials, and equipment.
+<strong>Description</strong>: This project is a React application built with TypeScript that allows users to explore information about the video game The Legend of Zelda: Breath of the Wild.  The app fetches data from a public API to provide users with insights into various game elements including monsters, materials, and equipment.
     </div>
 <!--
 **jakedusing/jakedusing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
