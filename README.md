@@ -14,6 +14,19 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
 
 ## Projects
 
+### BookClub - https://book-club-alpha.vercel.app/
+<div>
+  <img src="https://github.com/user-attachments/assets/8e8fcfd9-c178-42a6-805f-25770d8c58ac" alt="BookClub" width="800" />
+</div>
+<div>
+  <strong>Description</strong>: a web application built with JavaScript, Node.js, Express, and MongoDB that enables users to connect and share their passion for books. This app allows users to sign up and sign in, upload their favorite books, add reviews, and search for books across the platform. Users can also view profiles of other members to discover the books they’ve uploaded and read.
+</div>
+
+<br />
+<br />
+
+
+
 ### Breath of the Wild Compendium - https://zeldabotwcompendium.netlify.app/
 <div>
 <img src="https://github.com/user-attachments/assets/a6e37111-6d47-4531-bf0b-0d6cb2725b08" alt="Breath of the Wild Compendium" width="800" />
