@@ -27,7 +27,7 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
 
 ### Pokemon Guesser - https://jd-pokemon-guesser.netlify.app/
 <div>
-  <img src="https://github.com/user-attachments/assets/5026d773-62ff-4413-9c55-5b9eeae6b10a" alt="Pokemon Guesser" width="800" height="700" />
+  <img src="https://github.com/user-attachments/assets/5026d773-62ff-4413-9c55-5b9eeae6b10a" alt="Pokemon Guesser" width="600" height="500" />
 </div>
 <div>
   A JavaScript web application that retrieves a random Pokemon between 1 and 100 from the Poke API.  It displays the Pokemon's image and gray boxes, one for each letter in the Pokemon's name.  Users have 3 guesses to correctly guess the Pokemon's name.  App keeps track of correct answers in a row.
