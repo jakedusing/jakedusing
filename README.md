@@ -5,10 +5,10 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
 ## Skills
 
 - **JavaScript**: Knowledgeable in building interactive web applications using JavaScript.
-- **React**: Experienced in developing dynamic user interfaces with React.
 - **Node.js**:  Skilled in developing robust server-side applications and APIs with Node.
 - **C#**: Experienced in software development using C#, including video game development in Unity.
 - **C++**: Experienced in video game development using C++.
+- **React**: Experienced in developing dynamic user interfaces with React.
 - **SQL**: Knowledge of relational databases and adept at writing complex queries.
 - **MongoDB**: Experienced in working with NoSQL databases and managing data effectively in MondoDB.
 
@@ -19,7 +19,7 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
   <img src="https://github.com/user-attachments/assets/8e8fcfd9-c178-42a6-805f-25770d8c58ac" alt="BookClub" width="800" />
 </div>
 <div>
-  <strong>Description</strong>: a web application built with JavaScript, Node.js, Express, and MongoDB that enables users to connect and share their passion for books. This app allows users to sign up and sign in, upload their favorite books, add reviews, and search for books across the platform. Users can also view profiles of other members to discover the books they’ve uploaded and read.
+  A web application built with JavaScript, Node.js, Express, and MongoDB that enables users to connect and share their passion for books. This app allows users to sign up and sign in, upload their favorite books, add reviews, and search for books across the platform. Users can also view profiles of other members to discover the books they’ve uploaded and read.
 </div>
 
 <br />
@@ -32,7 +32,7 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
 <img src="https://github.com/user-attachments/assets/a6e37111-6d47-4531-bf0b-0d6cb2725b08" alt="Breath of the Wild Compendium" width="800" />
   </div>
   <div>
-<strong>Description</strong>: This project is a React application built with TypeScript that allows users to explore information about the video game The Legend of Zelda: Breath of the Wild.  The app fetches data from a public API to provide users with insights into various game elements including monsters, materials, and equipment.
+This project is a React application built with TypeScript that allows users to explore information about the video game The Legend of Zelda: Breath of the Wild.  The app fetches data from a public API to provide users with insights into various game elements including monsters, materials, and equipment.
     </div>
 <!--
 **jakedusing/jakedusing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
