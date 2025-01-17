@@ -23,16 +23,23 @@ Hello! I'm Jake, a passionate developer with experience in various programming l
 </div>
 
 <br />
-<br />
+
+### Todo App - https://todo-app-roan-ten.vercel.app/
+<div>
+  <img src="https://github.com/user-attachments/assets/6248138b-9f54-4591-a313-137c98f86cf9" alt="TodoApp" with="600" />
+</div>
+  A web-based platform designed for person and group task management along with real-time chat.  Built with Node.js, Express, MongoDB, and Socket.IO.  Includes User Authentication, Task Management, Group Collaboration, Real-time Chat, and Mobile-Responsive design.
+  
+<br>
 
 ### Pokemon Guesser - https://jd-pokemon-guesser.netlify.app/
 <div>
-  <img src="https://github.com/user-attachments/assets/5026d773-62ff-4413-9c55-5b9eeae6b10a" alt="Pokemon Guesser" width="600" height="500" />
+  <img src="https://github.com/user-attachments/assets/5026d773-62ff-4413-9c55-5b9eeae6b10a" alt="Pokemon Guesser" width="500" height="400" />
 </div>
 <div>
   A JavaScript web application that retrieves a random Pokemon between 1 and 100 from the Poke API.  It displays the Pokemon's image and gray boxes, one for each letter in the Pokemon's name.  Users have 3 guesses to correctly guess the Pokemon's name.  App keeps track of correct answers in a row.
 </div>
-<br />
+
 <br />
 
 ### Breath of the Wild Compendium - https://zeldabotwcompendium.netlify.app/
