@@ -1,16 +1,30 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm Jake, a passionate developer with experience in various programming languages and technologies.  My projects range from web applications to video games, and I love tackling new challenges and learning new skills.
+Hello! I'm Jake, a developer passionate about creating efficient and scalable applications. While my experience spans multiple programming languages, I am currently focused on Java development, backend systems, and database management.
 
-## Skills
+## **Skills**
 
-- **JavaScript**: Knowledgeable in building interactive web applications using JavaScript.
-- **Node.js**:  Skilled in developing robust server-side applications and APIs with Node.
-- **C#**: Experienced in software development using C#, including video game development in Unity.
-- **C++**: Experienced in video game development using C++.
-- **React**: Experienced in developing dynamic user interfaces with React.
-- **SQL**: Knowledge of relational databases and adept at writing complex queries.
-- **MongoDB**: Experienced in working with NoSQL databases and managing data effectively in MondoDB.
+### Java:
+- Proficient in object-oriented programming, developing robust applications, and designing maintainable codebases.
+- Experienced with Java Collections, OOP, and file handling.
+- Built Video Game Backlog Tracker and Digital Bookshelf projects, showcasing file I/O, custom sorting, and user interaction.
+
+### Backend Development:
+- **Node.js:** Skilled in developing server-side applications and APIs.
+- **Express.js:** Built RESTful APIs and implemented secure authentication workflows.
+
+### Databases:
+- **MongoDB:** Designed and managed NoSQL databases for full-stack web applications.
+- **SQL:** Knowledgeable in relational database design and writing optimized queries.
+
+### Web Development:
+- **JavaScript:** Developed interactive web applications and dynamic user experiences.
+- **React:** Created dynamic, component-based UIs for engaging front-end experiences.
+
+### Game Development:
+- **C#:** Designed and implemented mechanics and gameplay features for multiple projects.
+- **C++:** Developed games with Unreal Engine and gained insights into memory management and performance optimization.
+  
 
 ## Projects
 
