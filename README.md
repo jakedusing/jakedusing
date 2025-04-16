@@ -8,6 +8,7 @@ Hello! I'm Jake, a developer passionate about creating efficient and scalable ap
 - Proficient in object-oriented programming, developing scalable applications, and designing maintainable codebases.
 - Experienced with Java Collections, OOP, file handling, and SQL in Java.
 - Built Video Game Backlog Tracker and Digital Bookshelf projects, showcasing file I/O, custom sorting, and user interaction.
+- Experienced in Spring Boot and API development
 
 ### Backend Development:
 - **Node.js:** Skilled in developing server-side applications and APIs.
