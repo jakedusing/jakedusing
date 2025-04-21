@@ -13,6 +13,7 @@ Hello! I'm Jake, a developer passionate about creating efficient and scalable ap
 ### Backend Development:
 - **Node.js:** Skilled in developing server-side applications and APIs.
 - **Express.js:** Built RESTful APIs and implemented secure authentication workflows.
+- **Spring Boot** Built RESTful APIs with fluid connectivity between frontend and databases.
 
 ### Databases:
 - **MongoDB:** Designed and managed NoSQL databases for full-stack web applications.
