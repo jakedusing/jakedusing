@@ -58,7 +58,7 @@ Hello! I'm Jake, a developer passionate about creating efficient and scalable ap
 
 <br />
 
-### Breath of the Wild Compendium - https://zeldabotwcompendium.netlify.app/
+<!--### Breath of the Wild Compendium - https://zeldabotwcompendium.netlify.app/
 <div>
 <img src="https://github.com/user-attachments/assets/a6e37111-6d47-4531-bf0b-0d6cb2725b08" alt="Breath of the Wild Compendium" width="800" />
   </div>
