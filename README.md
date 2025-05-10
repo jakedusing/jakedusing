@@ -24,7 +24,7 @@ Hello! I'm Jake, a developer passionate about creating efficient and scalable ap
 - **React:** Created dynamic, component-based UIs for engaging front-end experiences.
 
 ### Game Development:
-- **C#:** Designed and implemented mechanics and gameplay features for multiple projects.
+- **C#:** Designed and implemented mechanics and gameplay features for multiple projects with Unity.
 - **C++:** Developed games with Unreal Engine and gained insights into memory management and performance optimization.
   
 
