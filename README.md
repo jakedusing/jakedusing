@@ -10,6 +10,9 @@ Hello! I'm Jake, a developer passionate about creating efficient and scalable ap
 - Built Video Game Backlog Tracker and Digital Bookshelf projects, showcasing file I/O, custom sorting, and user interaction.
 - Experienced in Spring Boot and API development
 
+### C#
+- Experienced in ASP.NET and MVC
+
 ### Backend Development:
 - **Node.js:** Skilled in developing server-side applications and APIs.
 - **Express.js:** Built RESTful APIs and implemented secure authentication workflows.
