@@ -24,7 +24,7 @@ Hello! I'm Jake, a developer passionate about creating efficient and scalable ap
 - **SQL:** Knowledgeable in relational database design and writing optimized queries.
 
 ### Web Development:
-- **JavaScript:** Developed interactive web applications and dynamic user experiences.
+- **JavaScript:** Developed interactive web applications, games, and dynamic user experiences.
 - **React:** Created dynamic, component-based UIs for engaging front-end experiences.
 
 ### Game Development:
