@@ -48,7 +48,7 @@ Hello! I'm Jake, a developer passionate about creating efficient and scalable ap
 <div>
   <img src="https://github.com/user-attachments/assets/6248138b-9f54-4591-a313-137c98f86cf9" alt="TodoApp" with="600" />
 </div>
-  A web-based platform designed for person and group task management along with real-time chat.  Built with Node.js, Express, MongoDB, and Socket.IO.  Includes User Authentication, Task Management, Group Collaboration, Real-time Chat, and Mobile-Responsive design.
+  A web-based platform designed for person and group task management along with real-time chat.  Built with JavaScript, Node.js, Express, MongoDB, and Socket.IO.  Includes User Authentication, Task Management, Group Collaboration, Real-time Chat, and Mobile-Responsive design.
   
 <br>
 
