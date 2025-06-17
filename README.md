@@ -12,6 +12,7 @@ Hello! I'm Jake, a developer passionate about creating efficient and scalable ap
 
 ### C#
 - Experienced in ASP.NET and MVC
+- Knowledge of and experience with LINQ
 - Developed a Taylor Swift Guessing Game using APIs built in C#
 
 ### Backend Development:
